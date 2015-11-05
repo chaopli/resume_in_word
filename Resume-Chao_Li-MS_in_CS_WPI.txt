@@ -1,0 +1,47 @@
+# Chao Li (http://chaopli.github.io)
+
+45383 Onondaga Dr. 
+Fremont, CA 94539 
+(774) 329-5650 
+chaopli@outlook.com
+
+Targeting an Entry-Level Position as a …
+
+# Software Engineer
+* Recent graduate of WPI’s MS in CS program whose academic credentials are reinforced by delving into research projects resulting in publications of papers and a book, and by consistently learning new techniques and cutting edge knowledges such as high performance computation and machine learning.
+* Consistently commended by professors for programming skills and concentration on work.
+* Great team player in several team projects and interns.
+
+# Technology Summary
+* Programming: C++ 11 (7 years), Python 2/3 (2 years), JAVA (3 years), MATLAB (1 year), shell script (1 year), LaTex (1 year), Markdown (1 year);
+* Libraries/API: Linux sockets, OpenCV, NumPy, Qt;
+* HPC: CUDA, MPI, AWS, Spark;
+* Databases: MySQL, Oracle, MS SQL Server;
+* OS: *nix (main working OS), OS X, Windows;
+* Mathematical programming: CPLEX, Gurobi, AMPL, CVX.
+
+# Internship
+* Tellyes Ltd. co. — Tianjin, China ❖ Research Engineer Intern, April, 2013 to May, 2013
+  ** Participated into one project during the one month-intern, working with a mentor.
+  ** Accelerated a CPU based C++ image processing program with CUDA GPU computation framework.
+  ** Extracted the data from original ITK data structures; processed the raw data in hierarchical GPU memory.
+
+# Projects
+* Computer Network Protocol Simulation
+  ** Team leader of a 3 person’s team.
+  ** Simulated Go-Back-N and Selected repeat algorithm of TCP.
+  ** Wrote an application running on the simulated protocol.
+  ** Used the Linux sockets interface.
+* Database System and Application
+  ** Team leader of a 3 person’s team.
+  ** Designed a database for storing information of personal collections.
+  ** Wrote a manage system with Qt SDK
+* Distributed Computation Program
+  ** Deployed an OpenMPI based distributed computation system on several virtual machines
+  ** Implemented X algorithm on Dancing Links structure paralleled by MPI to take advantage of the nature of independence of the different phase of the algorithm.
+
+# Education
+WORCESTER POLYTECHNIC INSTITUTE — Worcester, MA  
+Master of Science, Major in Computer Science, 2013 - 2015
+* Graduated with publication of 2 Journal papers and a book.
+* Delved into 3 different projects simultaneously, working happily with all the 3 advisors.
